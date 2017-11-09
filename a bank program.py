@@ -1,5 +1,4 @@
 # bank
-bank assignment
 import random
 
 class Bank():
